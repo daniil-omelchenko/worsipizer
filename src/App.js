@@ -12,7 +12,7 @@ var CONTACTS = [
         id: 2,
         name: 'Princess Leia',
         phoneNumber: '+250966344466',
-        image: 'img/leia.gif'
+        image: '/img/leia.gif'
     }, {
         id: 3,
         name: 'Luke Skywalker',
