@@ -1,0 +1,13 @@
+.favorite-panel {
+   /*border: solid 3px indianred;*/
+   width: 25%;
+   float: left;
+   height: 200px;
+   background-color: whitesmoke;
+}
+
+.favorite-panel:after {
+  content: "";
+  display: table;
+  clear: both;
+}

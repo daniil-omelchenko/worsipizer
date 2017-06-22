@@ -1,0 +1,9 @@
+.logo {
+   display: inline-block;
+   font-size: 40px;
+
+   font-family: Courier New;
+   color: white;
+   margin-right: 15px;
+   vertical-align: middle;
+}

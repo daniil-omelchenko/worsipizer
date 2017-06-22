@@ -1,0 +1,13 @@
+.song-panel {
+
+   /* border: solid 3px indianred;*/
+    height: 200px;
+    float: right;
+    width: 75%;
+}
+
+.song-panel:after {
+  content: "";
+  display: table;
+  clear: both;
+}

@@ -2,14 +2,16 @@
  * Created by Elijah on 21.06.2017.
  */
 import React, { Component } from 'react';
+import './Logo.css'
 
-var Header = React.createClass({
+var Logo = React.createClass({
     render: function() {
         return (
-            <div>
-
-
+            <div className="logo">
+                <b>WORSHIP</b>izer
             </div>
         );
     }
 });
+
+export default Logo;
